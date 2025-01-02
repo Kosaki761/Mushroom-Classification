@@ -3,7 +3,7 @@
 
 2.Install Streamlit
 
-3.Select path to cmd
+3.open terminal and cd to folder
 
 4.run command : streamlit run filename.py
 
